@@ -1,2 +1,1 @@
-# Hello-World
-Required for class
+A bit about yourself
